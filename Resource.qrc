@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/about-us-icon-34422.png</file>
+        <file>img/book-icon-137.png</file>
+        <file>img/copy-icon-4777.gif</file>
+        <file>img/cut.png</file>
+        <file>img/images.png</file>
+        <file>img/new.png</file>
+        <file>img/redo.png</file>
+        <file>img/save as.png</file>
+        <file>img/save.png</file>
+        <file>img/undo.png</file>
+        <file>img/Background_Color.png</file>
+        <file>img/Background_Scree_color.png</file>
+        <file>img/Color.png</file>
+        <file>img/Font.png</file>
+    </qresource>
+</RCC>
